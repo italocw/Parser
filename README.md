@@ -6,7 +6,7 @@ This parser implementation describes a simple programing language, used only to 
 The gramatic that defines this language is available in http://dei.unicap.br/~silvio/compiladores/parser (only in Portuguese).
 The symble table (topic 6 on the document) was not implemented yet. It will be implemented during the next weeks.
 
-This project was being developed and tested using the NetBeans IDE 8.1 on Ubuntu 16.04 LTS (32 bits).
+This project was being developed and tested using Java version "1.7.0_80" with NetBeans IDE 8.1 on Ubuntu 16.04 LTS (32 bits) environment. 
 
 Let me know if you have any questions. You may send an email to italobezerra.cw@gmail.com.
 
